@@ -17,5 +17,4 @@ function textToBinary(e) {
     const textConverted = binary.join(" ");
 
     converted.textContent = textConverted;
-    console.log(arr);
 }
